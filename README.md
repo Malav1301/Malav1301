@@ -86,7 +86,7 @@ Driven by a passion for data-driven decision-making, I leverage cutting-edge ana
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="linkedin.com/in/malavkumar-menpara-690707178/">
+  <a href="https://www.linkedin.com/in/malavkumar-menpara-690707178/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Malav1301">
